@@ -1,0 +1,5 @@
+c:\users\gjoshi\documents\visual studio 2012\Projects\InvoiceProcessing\InvoiceProcessing\bin\Debug\InvoiceProcessing.exe.config
+c:\users\gjoshi\documents\visual studio 2012\Projects\InvoiceProcessing\InvoiceProcessing\bin\Debug\InvoiceProcessing.exe
+c:\users\gjoshi\documents\visual studio 2012\Projects\InvoiceProcessing\InvoiceProcessing\bin\Debug\InvoiceProcessing.pdb
+c:\users\gjoshi\documents\visual studio 2012\Projects\InvoiceProcessing\InvoiceProcessing\obj\Debug\InvoiceProcessing.exe
+c:\users\gjoshi\documents\visual studio 2012\Projects\InvoiceProcessing\InvoiceProcessing\obj\Debug\InvoiceProcessing.pdb

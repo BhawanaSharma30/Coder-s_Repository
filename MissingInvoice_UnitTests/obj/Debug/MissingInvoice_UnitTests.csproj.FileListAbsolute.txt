@@ -1,0 +1,7 @@
+c:\users\gjoshi\documents\visual studio 2012\Projects\InvoiceProcessing\MissingInvoice_UnitTests\bin\Debug\MissingInvoice_UnitTests.dll
+c:\users\gjoshi\documents\visual studio 2012\Projects\InvoiceProcessing\MissingInvoice_UnitTests\bin\Debug\MissingInvoice_UnitTests.pdb
+c:\users\gjoshi\documents\visual studio 2012\Projects\InvoiceProcessing\MissingInvoice_UnitTests\bin\Debug\InvoiceProcessing.exe
+c:\users\gjoshi\documents\visual studio 2012\Projects\InvoiceProcessing\MissingInvoice_UnitTests\bin\Debug\InvoiceProcessing.pdb
+c:\users\gjoshi\documents\visual studio 2012\Projects\InvoiceProcessing\MissingInvoice_UnitTests\obj\Debug\MissingInvoice_UnitTests.csprojResolveAssemblyReference.cache
+c:\users\gjoshi\documents\visual studio 2012\Projects\InvoiceProcessing\MissingInvoice_UnitTests\obj\Debug\MissingInvoice_UnitTests.dll
+c:\users\gjoshi\documents\visual studio 2012\Projects\InvoiceProcessing\MissingInvoice_UnitTests\obj\Debug\MissingInvoice_UnitTests.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceProcessing", "InvoiceProcessing\InvoiceProcessing.csproj", "{CC1A96B8-E62B-42EC-B89D-6D2DA72D1A44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingInvoice_UnitTests", "MissingInvoice_UnitTests\MissingInvoice_UnitTests.csproj", "{C8BECA15-BF59-4BFD-A7C7-7F710FD3D3F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1A96B8-E62B-42EC-B89D-6D2DA72D1A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1A96B8-E62B-42EC-B89D-6D2DA72D1A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1A96B8-E62B-42EC-B89D-6D2DA72D1A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1A96B8-E62B-42EC-B89D-6D2DA72D1A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8BECA15-BF59-4BFD-A7C7-7F710FD3D3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BECA15-BF59-4BFD-A7C7-7F710FD3D3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BECA15-BF59-4BFD-A7C7-7F710FD3D3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BECA15-BF59-4BFD-A7C7-7F710FD3D3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
